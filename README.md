@@ -39,3 +39,6 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 This project is licensed under the [MIT License](LICENSE).
 
 Feel free to update the README file according to the specific details of your Etch-a-Sketch project. Add any additional sections, instructions, or information that is relevant to your implementation.
+
+To visit the project, click [here](https://incredible-panda-c411cd.netlify.app).
+
